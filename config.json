@@ -1,0 +1,12 @@
+{
+  "CHECK_URL": "http://localhost:8888/",
+  "CHECK_INTERVAL": 5000,
+  "CHECK_COUNT": 3,
+  "STILL_IMAGE_COUNT": 5,
+  "MIN_HIT_COUNT": 3,
+  "EXIT_WHEN_HIT": true,
+  "POST_IMAGE": false,
+  "NUDITY_FILES_PATH": "/path/nude/",
+  "TMP_FILES_PATH": "/path/curr/",
+  "TEST_FILES_PATH": "/path/test/"
+}

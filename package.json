@@ -1,0 +1,19 @@
+{
+  "name": "screenshots",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@log4js-node/gelf": "^1.0.1",
+    "body-parser": "^1.18.2",
+    "compression": "^1.7.1",
+    "config": "^1.29.4",
+    "express": "^4.16.2",
+    "http-status": "^1.0.1",
+    "log4js": "^2.5.3",
+    "request": "^2.83.0"
+  }
+}
